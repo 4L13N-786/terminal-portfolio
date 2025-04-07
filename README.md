@@ -31,7 +31,7 @@ A interactive terminal-style portfolio website built with HTML, CSS and JavaScri
 
 ## LIVE DEMO
 
-[View live demo](#) (https://4l13n-786.github.io/terminal-portfolio/)
+[View live demo](#https://4l13n-786.github.io/terminal-portfolio/)
 
 ## AUTHOR
 
