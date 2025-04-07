@@ -1,6 +1,6 @@
 # TERMINAL PORTFOLIO WEBSITE
 
-A interactive terminal-style portfolio website built with HTML, CSS, and JavaScript.
+A interactive terminal-style portfolio website built with HTML, CSS and JavaScript.
 
 ## FEATURES
 
